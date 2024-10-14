@@ -1,0 +1,16 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^agendamento(.*)$ agendamentos.php [L]
+RewriteRule ^agendamentos(.*)$ agendamentos.php [L]
+RewriteRule ^produtos(.*)$ produtos.php [L]
+RewriteRule ^servicos(.*)$ servicos.php [L]
+RewriteRule ^index(.*)$ index.php [L]
+RewriteRule ^index.php(.*)$ index.php [L]
+RewriteRule ^assinatura(.*)$ assinatura.php [L]
+
+RewriteRule ^pagar/(.*)$ pagamentos/index.php?id_conta=$1 [L]
+RewriteRule ^pagamento/(.*)/(.*)$ pagamentos/index.php?id_conta=$1&total=$2 [L]
+RewriteRule ^plano/(.*)$ pagamentos/pagar.php?id_conta=$1 [L]
+
