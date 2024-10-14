@@ -8,6 +8,9 @@
 - PHP
 - MySQL
 - Rest API
+
+- Usuário: testegratis@gmail.com
+- Senha: 123
   
  ![sistema-barbearia-painel-login](https://github.com/user-attachments/assets/5bf0cf5e-3cb3-491e-aae2-fec4e497e558)
 ![sistema-barbearia-dashboard](https://github.com/user-attachments/assets/544e0406-8611-4170-b2dc-d5c5914187bc)
