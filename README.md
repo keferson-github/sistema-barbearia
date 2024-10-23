@@ -5,12 +5,13 @@
 - CSS3
 - Bootstrap
 - JavaScript
+- JQuery
 - PHP
 - MySQL
 - Rest API
 
 ### Dados de Acesso
-- Usuário: testegratis@gmail.com
+- Usuário: barbershop@gmail.com
 - Senha: 123
   
  ![sistema-barbearia-painel-login](https://github.com/user-attachments/assets/5bf0cf5e-3cb3-491e-aae2-fec4e497e558)
