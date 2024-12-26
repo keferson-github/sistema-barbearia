@@ -16,7 +16,7 @@
 - 
 ![pagina-login-barbershop](https://github.com/user-attachments/assets/633f4943-09a3-41c2-a8ca-bd4540c39656)
 ![dashboard-barbershop](https://github.com/user-attachments/assets/5b4ae7fc-a2b4-4288-a84a-ae52ca5ffcc0)
-![sistema-barbearia-cadastro-funcionarios](https://github.com/user-attachments/assets/63aeba4a-c572-40b3-8785-addda736527d)
+![funcionarios-barbershop](https://github.com/user-attachments/assets/32e7a3b1-3571-48ac-a6c4-84953e5ce911)
 ![sistema-barbearia-agendamentos](https://github.com/user-attachments/assets/7b74f62d-7bc6-4dd6-9465-83e7bdfd20a6)
 ![sistema-barbearia-relatorios](https://github.com/user-attachments/assets/08885321-6f3b-4ba2-b8e6-64b974aa44df)
 
