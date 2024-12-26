@@ -13,8 +13,8 @@
 ### Dados de Acesso
 - Usuário: barbershop@gmail.com
 - Senha: 123
-  
- ![sistema-barbearia-painel-login](https://github.com/user-attachments/assets/5bf0cf5e-3cb3-491e-aae2-fec4e497e558)
+- 
+![pagina-login-barbershop](https://github.com/user-attachments/assets/633f4943-09a3-41c2-a8ca-bd4540c39656)
 ![sistema-barbearia-dashboard](https://github.com/user-attachments/assets/544e0406-8611-4170-b2dc-d5c5914187bc)
 ![sistema-barbearia-cadastro-funcionarios](https://github.com/user-attachments/assets/63aeba4a-c572-40b3-8785-addda736527d)
 ![sistema-barbearia-agendamentos](https://github.com/user-attachments/assets/7b74f62d-7bc6-4dd6-9465-83e7bdfd20a6)
