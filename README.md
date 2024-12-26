@@ -11,7 +11,7 @@
 - Rest API
 
 ### Dados de Acesso
-- Usuário: barbershop@gmail.com
+- Usuário: testegratis@gmail.com
 - Senha: 123
 - 
 ![pagina-login-barbershop](https://github.com/user-attachments/assets/633f4943-09a3-41c2-a8ca-bd4540c39656)
