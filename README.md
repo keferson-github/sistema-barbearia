@@ -1,6 +1,5 @@
 # Projeto Sistema Barbearia
 ## Conheça Este Sistema de Gestão Completo para Barbearias
-### Conheça o projeto: https://sistema-clinica-odontologica.grupowebsystem.com.br/
 - HTML5
 - CSS3
 - Bootstrap
@@ -9,11 +8,7 @@
 - PHP
 - MySQL
 - Rest API
-
-### Dados de Acesso
-- Usuário: contato@techsolutionspro.com.br
-- Senha: Tspro#2025
-- 
+  
 ![pagina-login-barbershop](https://github.com/user-attachments/assets/633f4943-09a3-41c2-a8ca-bd4540c39656)
 ![dashboard-barbershop](https://github.com/user-attachments/assets/5b4ae7fc-a2b4-4288-a84a-ae52ca5ffcc0)
 ![funcionarios-barbershop](https://github.com/user-attachments/assets/32e7a3b1-3571-48ac-a6c4-84953e5ce911)
