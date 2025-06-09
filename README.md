@@ -1,6 +1,6 @@
 # Projeto Sistema Barbearia
 ## Conheça Este Sistema de Gestão Completo para Barbearias
-### Conheça o projeto: https://sistemaparabarbearia.grupowebsystem.com.br/sistema/index.php
+### Conheça o projeto: https://sistema-clinica-odontologica.grupowebsystem.com.br/
 - HTML5
 - CSS3
 - Bootstrap
