@@ -1,5 +1,8 @@
 # Projeto Sistema Barbearia
 ## Conheça Este Sistema de Gestão Completo para Barbearias
+
+## Tecnologias
+
 - HTML5
 - CSS3
 - Bootstrap
