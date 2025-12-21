@@ -1,6 +1,10 @@
 # Projeto Sistema Barbearia
 ## Conheça Este Sistema de Gestão Completo para Barbearias
 
+### Credenciais de Acesso
+- Usuário: testegratis@gmail.com
+- Senha: 123
+
 ## Tecnologias
 
 - HTML5
