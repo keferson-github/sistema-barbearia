@@ -1,5 +1,5 @@
 # Projeto Sistema Barbearia
-## Conheça Este Sistema de Gestão Completo para Barbearias
+## Sistema de Gestão Completo para Barbearias
 
 ### Dados de Acesso
 #### Conheça o Projeto: https://sistemabarbearia.techsolutionspro.com.br/
